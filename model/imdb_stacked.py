@@ -24,7 +24,6 @@ import cmn.utils
 from cmn.utils import *
 import dal.load_dblp_data as dblp
 import eval.evaluator as dblp_eval
-from ml.nn_custom_func import *
 import csv
 import eval.ranking as rk
 import ml_metrics as metrics
