@@ -10,7 +10,6 @@ from sklearn import preprocessing
 import itertools
 import keras
 import glob
-from ml.team2vec import *
 
 
 def crossValidate(data: np.ndarray, split1, split2):
