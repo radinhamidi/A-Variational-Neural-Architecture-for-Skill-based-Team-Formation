@@ -9,7 +9,6 @@ from nltk.tokenize import word_tokenize, RegexpTokenizer
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
 import pandas as pd
-from ml.team2vec import *
 import matplotlib.pyplot as plt
 import xlwt
 import eval.evaluator as dblp_eval
